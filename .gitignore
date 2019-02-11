@@ -1,0 +1,17 @@
+.ipynb_checkpoints/
+__pycache__/
+
+*.csv
+
+*.xla
+*.xlam
+*.xml
+*.xlr
+*.xls
+*.xlsb
+*.xlsm
+*.xlsx
+*.xlt
+*.xltm
+*.xltx
+*.xlw
